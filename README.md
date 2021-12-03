@@ -1,0 +1,2 @@
+# SpectrumForColor
+Spectrum calculation, 
