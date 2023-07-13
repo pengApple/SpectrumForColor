@@ -19,6 +19,7 @@ ColorSegment::ColorSegment()
     m_metaHLSRange.mColor = colorCalc.cRGBToHLS(g_Green);
 }
 
+// Comments tests.
 ColorSegment::~ColorSegment()
 {
 
